@@ -7,7 +7,13 @@ I like you2. You are sweet and full of potassium2.
 I had one of your kind in the morning2.  
 
 
+<<<<<<< HEAD
 Now I am wrting the third paragraph about bananas.  
 
 
 No I am adding a tricky line and I think that is a trap. 
+=======
+Now I am wrting the third paragraph about bananas. 
+
+Hey I am adding a line to bananas and preparing for a trap. 
+>>>>>>> b11abde946274f0566264a52c8b836cc2b074b47
